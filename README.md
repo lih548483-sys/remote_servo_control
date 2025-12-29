@@ -1,0 +1,2 @@
+# remote_servo_control
+使用电灯科技通过wifi控制舵机，进而控制电脑开关机
